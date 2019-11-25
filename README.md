@@ -11,3 +11,5 @@ Snake game made with python using the Pygame library with connection to labuino 
 ```sh
   sudo python Game/game.py
 ```
+
+Copy of https://github.com/fabiofaundes/PyGame
